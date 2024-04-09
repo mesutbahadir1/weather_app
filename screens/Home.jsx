@@ -1,5 +1,5 @@
 import {
-    Button, Image, SafeAreaView, ScrollView, StatusBar, Text, TextInput, TouchableOpacity, View
+     Image, SafeAreaView, ScrollView, StatusBar, Text, TextInput, TouchableOpacity, View
 } from "react-native";
 import {theme} from "../theme/theme";
 import {MagnifyingGlassIcon} from "react-native-heroicons/outline";
@@ -58,9 +58,6 @@ export default function Home() {
 
     const {current, location} = weather;
 
-    let coordinates = {
-        id: 1213, title:location?.name, latitude: location?.lat, longitude: location?.lon, latitudeDelta: 0.01, longitudeDelta: 0.01
-    }
 
     return (<View className={"flex-1 relative"}>
             <StatusBar style={"light"}/>
