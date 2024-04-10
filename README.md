@@ -8,4 +8,4 @@ Ana ekranda bulunan arama butonuna tıklayıp istenilen spesifik konumun veya gi
 
 <img width="347" alt="image" src="https://github.com/mesutbahadir1/weather_app/assets/97726787/c27a73c1-a56a-4969-9417-dcd293a779d0">
 
-Bu projede deneyimlemek adına "TailwindCSS" yapısı kullanılarak projenin tasarımı gerçekleştirilmiştir.
+Bu projede deneyimlemek adına "TailwindCSS" yapısı kullanılarak projenin arayüz tasarımı gerçekleştirilmiştir.
